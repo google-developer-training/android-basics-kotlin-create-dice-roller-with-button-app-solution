@@ -1,8 +1,8 @@
-Dice Roller with Button - Solution Code
-=======================================
+Create an interactive Dice Roller app - Solution Code
+=====================================================
 
-Solution code for the Android Basics in Kotlin: Create a Dice Roller Android app with a Button codelab.
-Starter code for the Android Basics in Kotlin: Add Dice Images to the Dice Roller App codelab.
+Solution code for the Android Basics in Kotlin: Create an interactive Dice Roller app codelab.
+Starter code for the Android Basics in Kotlin:  Add more conditional behavior in Kotlin codelab.
 
 Introduction
 ------------
