@@ -1,5 +1,8 @@
-Create an interactive Dice Roller app - Solution Code
+(Deprecated) Create an interactive Dice Roller app - Solution Code
 =====================================================
+
+> [!CAUTION]
+> This codelab is deprecated and it will be removed soon.
 
 Solution code for the Android Basics in Kotlin: Create an interactive Dice Roller app codelab.
 Starter code for the Android Basics in Kotlin:  Add more conditional behavior in Kotlin codelab.
